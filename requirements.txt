@@ -34,7 +34,6 @@ ibis==3.3.0
 ipython==8.12.3
 ipywidgets==8.1.5
 isoduration==20.11.0
-jnius==1.1.0
 JPype1==1.5.0
 jsonpointer==3.0.0
 keyring==25.5.0
@@ -60,6 +59,7 @@ py==1.11.0
 pycares==4.4.0
 pycurl==7.45.3
 PyInstaller==6.11.1
+pyjnius==1.6.1
 pyodide==0.0.2
 pyOpenSSL==24.2.1
 pyperf==2.8.0
