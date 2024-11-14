@@ -44,7 +44,6 @@ mock==5.1.0
 modin==0.32.0
 mtrand==0.1
 mypy==1.13.0
-Numeric==24.2
 numexpr==2.10.1
 odfpy==1.4.1
 olefile==0.47
